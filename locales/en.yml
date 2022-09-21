@@ -505,13 +505,7 @@ strings:
     uptime: "<b>Uptime:</b> <code>{uptime}</code>"
   general:
     donate_owner: |-
-      Hey Thanks for your thought of donating me!
-      When you donate, all the fund goes towards my development which makes on fast and responsive.
-      Your donation might also me get me a new feature or two, which I wasn't able to get due to server limitations.
-
-      All the fund would be put into my services such as database, storage and hosting!
-
-      You can donate by contacting my owner here: @DivideProjectsBot
+      FREE BOTS
     back_btn: Back
     check_help: "Please check help on how to use this this command."
     close_btn: Close
